@@ -1,0 +1,16 @@
+PODS:
+  - RevoSockets (0.0.1)
+
+DEPENDENCIES:
+  - RevoSockets (from `../../packages/RevoSockets`)
+
+EXTERNAL SOURCES:
+  RevoSockets:
+    :path: "../../packages/RevoSockets"
+
+SPEC CHECKSUMS:
+  RevoSockets: b9d22e0d911fe01ef141c70c507ee546fa82176b
+
+PODFILE CHECKSUM: a8ddf8d21a01cda45d11d15e7a59d43753f37e6b
+
+COCOAPODS: 1.11.3
